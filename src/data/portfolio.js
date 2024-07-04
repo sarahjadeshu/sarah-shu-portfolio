@@ -11,10 +11,4 @@ export default [
     stack: ["HTML", "CSS", "JavaScript", "React"],
     link: "",
   },
-  {
-    title: "Super Mark-It",
-    imgUrl: "",
-    stack: ["HTML", "SCSS", "JavaScript"],
-    link: "",
-  }
 ];
